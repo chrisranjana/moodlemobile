@@ -12,6 +12,7 @@ Bug Tracker:  https://tracker.moodle.org/browse/MOBILE
 Release Notes: http://docs.moodle.org/dev/Moodle_Mobile_Release_Notes
 
 To build the app, refer to:
+Moodle Developers and Moodle Programmers: https://www.chrisranjana.com/custommoodledevelopers/moodlecertificatecustomizations.html
 http://docs.moodle.org/dev/Moodle_Mobile_Customization#Building
 http://docs.moodle.org/dev/Moodle_Mobile_Building_the_app_for_Android
 http://docs.moodle.org/dev/Moodle_Mobile_Building_the_app_for_iOS
